@@ -1,7 +1,7 @@
 # University of Michigan Python Specialization - Final Assessments 
 
-This repository contains my final assignments from the University of Michigan's Python Specialization. These assignments cover a range of topics within Python programming, focusing on applied machine learning, text mining, and data science with Python. Each Jupyter notebook is a culmination of the skills and knowledge acquired throughout each course.
-
+This repository contains my final assignments from the University of Michigan's Python Specialization. These assignments cover a range of topics within Python programming, focusing on applied machine learning, text mining, and data science with Python. Each Jupyter notebook is a culmination of the skills and knowledge acquired throughout each course. 
+Please note: I am currently pursuing the specialization , and this repository is actively updated with new projects and assessments.
 ## Courses & Assignments
 
 ### Applied Machine Learning in Python
